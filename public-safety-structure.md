@@ -298,7 +298,8 @@ the program ordinance and the budget contained herein.
 
 Section 3. The following revenues are anticipated to be available to contribute to this project:
 
-```Source Amount Assigned Account Number
+```txt
+Source Amount Assigned Account Number
 
 Town Contribution $ 100,000 35.3480.000
  ------------
@@ -308,7 +309,8 @@ Town Contribution $ 100,000 35.3480.000
 
 Section 4. The following amounts are appropriated for the project:
 
-```Source Amount Assigned Account Number
+```txt
+Source Amount Assigned Account Number
 
 Professional Services $ 100,000 35.5300.040
 Repairs 0 35.5300.150
@@ -898,6 +900,7 @@ the offer is aware of this. Councilwoman Hildebran shared that WC Erwin made the
 proposed to develop the property for residential use. Town Manager Seth Eckard reminded Council that
 the original Public Safety building project proposal included demolishing the Mill at the cost of $450,000.
 Mr. Eckard shared that by deposing this property through the upset bid process, we would save the cost of
-demolition and get money for the purchase. In return, hopefully, the property will be turned into muchneeded market-rate housing. Mr. Weichel shared that this Resolution will allow staff to start the upset bid
+demolition and get money for the purchase. In return, hopefully, the property will be turned into muchneeded
+market-rate housing. Mr. Weichel shared that this Resolution will allow staff to start the upset bid
 process and explained the process. Councilwoman Hildebran asked if this would involve any rezoning or if
 we needed to notify any property owners. Mr. Eckard said no.
