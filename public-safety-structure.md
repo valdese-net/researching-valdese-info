@@ -1,14 +1,16 @@
-Timeline of Police/Fire Structure
+# Timeline of Police/Fire Structure
 
 The following is intended to summarize some of the milestones in the governance of Valdese that are relevant to the Valdese Public Safety Building Project.
 The townofvaldese.com web site has a page dedicated to this project:
 
-- https://www.townofvaldese.com/public-safety-building-study/
+- [link](https://www.townofvaldese.com/public-safety-building-study/)
 
 Here is a content dump of minuted items related to this project:
 
-# March 16, 2015: Annual Council/Department Head Budget Retreat
-- https://static.townofvaldese.com/public/media/uploads/2015_combined_meeting_minutes.pdf#page=17
+## March 16, 2015: Annual Council/Department Head Budget Retreat
+
+- [link](https://static.townofvaldese.com/public/media/uploads/2015_combined_meeting_minutes.pdf#page=17)
+
 FIRE Charlie Watts said the department had 35 air bottles that would reach end-of-life age per DOT and would need
 to be replaced at $800 each at an estimated cost of $28,000. Upgrade 45 bottles and upgrades to current air packs to
 4500psi - $40,000; upgrade to filling station - $1,000. He reviewed advantages or disadvantages of the bottles and air
@@ -24,14 +26,16 @@ Chief Watts said staff needed to obtain the deed from The Settings by June 30, 2
 
 Mr. Morse said there would be an additional $20,000 contribution for the new communications center
 
+## July 1, 2015: Mr. Seth Eckard Appointed Town Manager
 
-# July 1, 2015: Mr. Seth Eckard Appointed Town Manager
-- https://static.townofvaldese.com/public/media/uploads/2015_combined_meeting_minutes.pdf#page=46
+- [link](https://static.townofvaldese.com/public/media/uploads/2015_combined_meeting_minutes.pdf#page=46)
+
 Mr. Seth Eckard appointed as new Valdese Town Manager, replacing Mr. Jeff Morse.
 
+## March 22, 2016: Annual Council/Department Head Budget Retreat
 
-# March 22, 2016: Annual Council/Department Head Budget Retreat
-- https://static.townofvaldese.com/public/media/uploads/2016_combined.pdf#page=21
+- [link](https://static.townofvaldese.com/public/media/uploads/2016_combined.pdf#page=21)
+
 FIRE Charlie Watts said the department currently has a 1985 Pierce Arrow 50’ Ladder Truck and repair parts were
 non-existent and had to be custom-made. He estimated a cost of $780,000-$850,000 for a new ladder truck with a 75
 foot ladder. In order to maintain the current NC Department of Insurance Rated Fire Department with a Class 4 Rating
@@ -44,37 +48,43 @@ week. He recommended resurfacing of parking lot and front pad at an estimated co
 engine bay heaters - $7,500. He said the estimated cost to renovate the old town hall would be approximately
 $130,000.
 
+## August 1, 2016: Town Council Meeting
 
-# August 1, 2016: Town Council Meeting
-- https://static.townofvaldese.com/public/media/uploads/2016_combined.pdf#page=57
+- [link](https://static.townofvaldese.com/public/media/uploads/2016_combined.pdf#page=57)
+
 Mr. Eckard said the loan agreement with USDA for the Ladder Truck was in the amount of $850,000. Fortunately, the
 USDA provided a grant in the amount of $46,700. The terms for the USDA loan would be $803,300 loan at
 2.5 percent interest rate for 20 years with an annual debt payment of $52,761.
 
+## March 20, 2017: Annual Council/Department Head Budget Retreat
 
-# March 20, 2017: Annual Council/Department Head Budget Retreat
-- https://static.townofvaldese.com/public/media/uploads/2017_minutes.pdf#page=27
+- [link](https://static.townofvaldese.com/public/media/uploads/2017_minutes.pdf#page=27)
+
 FIRE DEPARTMENT CHARLIE WATTS – DEPARTMENTAL REQUESTS AND 911 COMMUNICATION CENTER
 Chief Watts said the new fire engine should arrive in October 2017. He offered a brief update on the 911
 Communication Center. He said the Police and Fire Departments would need a new complex within the next 10 years.
 He said the Fire Department needed bay door replacement and resurfacing of the front pad and as a future budget
 item they would need a Rescue UTV
 
+## June 5, 2017: Town Council Meeting
 
-# June 5, 2017: Town Council Meeting
-- https://static.townofvaldese.com/public/media/uploads/2017_minutes.pdf#page=44
+- [link](https://static.townofvaldese.com/public/media/uploads/2017_minutes.pdf#page=44)
+
 The General Fund Budget reflects expenditures of $350,000 from the Capital Reserve Fund for projects across
-multiple departments. Highlights include: 
+multiple departments. Highlights include:
+
 - Fire Department paving and bay door repairs to accommodate new fire truck
 
+## March 19, 2018: Annual Budget Retreat, Old Rock School, Waldensian Room
 
-# March 19, 2018: Annual Budget Retreat, Old Rock School, Waldensian Room
-- https://www.townofvaldese.com/media/uploads/2018_minutes.pdf
+- [link](https://www.townofvaldese.com/media/uploads/2018_minutes.pdf)
+
 Chief Watts informed Council that he received a report from an engineer today about possible structural issues at the fire and police complex. Staff will meet with the engineer to discuss the findings.
 
+## June 4, 2018: Town Council Meeting
 
-# June 4, 2018: Town Council Meeting
-- https://static.townofvaldese.com/public/media/uploads/2018_combined_minutes.pdf#page=32
+- [link](https://static.townofvaldese.com/public/media/uploads/2018_combined_minutes.pdf#page=32)
+
 PUBLIC SAFETY BUILDING Fire Chief Charlie Watts informed Council that staff has been monitoring the structural
 faults in the public safety building for a number of years with no marginal change in those characteristics. Chief Watts
 stated that the extreme cold the area experienced in January created two additional cracks in the floor that weren’t
@@ -93,7 +103,7 @@ buy some time over the next couple of years to allow the Town to create an actio
 Town is currently considering three options: renovate the current structure, usefulness of the BB&T building, and
 building a new facility. Mr. Eckard stated that the assistance of professionals is important during this process to
 ensure the best investment for Valdese. Mr. Eckard stated that long term solutions will be studied closely and
-presented to Council during next year’s budget process. 
+presented to Council during next year’s budget process.
 
 Chief Watts introduced Ken Newell of SCN Architects, sharing that he selected this firm as they specialize in fire and
 police departments. Mr. Newell highlighted his proposal and stated that he will not duplicate the work that Mr. Alberto
@@ -127,8 +137,10 @@ and a feasibility study in the amount of $17,500, and to authorize the town mana
 by Councilwoman Stevenson. The motion passed with voting as follows: Stevenson-aye, Delp-aye, Sweezy-aye.
 Opposed: Councilman Ogle.
 
-# August 2, 2018: Town Council Special Meeting
-- https://static.townofvaldese.com/public/media/uploads/2018_combined_minutes.pdf#page=48
+## August 2, 2018: Town Council Special Meeting
+
+- [link](https://static.townofvaldese.com/public/media/uploads/2018_combined_minutes.pdf#page=48)
+
 Mayor Black called the meeting to order at 7:00 p.m. Mr. Black stated that this was a Special Called Council Meeting to
 meet with representatives from SCN-Architects to discuss the results of the police and fire department feasibility study
 and to discuss the structural engineer’s findings. Mr. Black informed the audience that no public comments would be
@@ -170,8 +182,10 @@ much they paid for it.
 Councilwoman Hildebran expressed her appreciation for having all of the options available for Council to consider to
 assist with making the best and most informed decision.
 
-# August 6, 2018: Town Council Regular Meeting
-- https://static.townofvaldese.com/public/media/uploads/2018_combined_minutes.pdf#page=55
+## August 6, 2018: Town Council Regular Meeting
+
+- [link](https://static.townofvaldese.com/public/media/uploads/2018_combined_minutes.pdf#page=55)
+
 PUBLIC SAFETY BUILDING DISCUSSION During the presentation of the feasibility study conducted by SCNArchitects, Council was informed that the BB&T building would not be suitable for the police or fire departments.
 Councilwoman Hildebran made a motion to cancel the offer to purchase the BB&T bank building, seconded by
 Councilman Sweezy. The vote was unanimous.
@@ -205,18 +219,20 @@ demolishing the unused portion of old town hall and utilizing that better for pa
 Mayor Black acknowledged that Council had reached a consensus, wishing to pursue Option A and requested to
 continue this discussion at the next meeting when staff has more definite numbers and details for this option.
 
+## September 4, 2018: Town Council Regular Meeting
 
-# September 4, 2018: Town Council Regular Meeting
-- https://static.townofvaldese.com/public/media/uploads/2018_combined_minutes.pdf#page=55
+- [link](https://static.townofvaldese.com/public/media/uploads/2018_combined_minutes.pdf#page=55)
+
 MANAGER’S REPORT:
 ...
 Staff is seeking a second opinion on the structural repairs at the Public Safety Building. A local structural
 engineer will look over the building and provide feedback. This information will be evaluated before
-proceeding to the next step 
+proceeding to the next step
 
+## January 31, 2019: Town Council Special Meeting, held at the structure
 
-# January 31, 2019: Town Council Special Meeting, held at the structure
-- https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=11
+- [link](https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=11)
+
 Mayor Black called the meeting to order at 5:30 p.m. at the Valdese Fire and Police Department. Mr. Black
 stated that this was a Special Called Council Meeting to tour the facility with town staff and engineers.
 Structural Engineer Michael Alberto led a tour of the facility; identifying issues throughout the building. At
@@ -229,16 +245,18 @@ Engineer C. Michael Alberto; and Bob Smith of Talley & Smith Architecture, Inc. 
 presentation:
 
 Probable Construction Costs for Options:
-Option 1:	$1,200,000	Structural repairs to building
-Option 1a:	$  740,000	Maintenance & Repairs (15-20yrs)
-Option 2:	$4,850,000	Fully Revonate Current Building
-Option 3:	$5,700,000	17,094 SF New Construction
-Option 3a:	$7,810,000	23,500 SF New Construction
-Option 4:	$  200,000	Temporary Shoring/Repairs
 
+| Option 1: | $1,200,000 | Structural repairs to building |
+| Option 1a: | $  740,000 | Maintenance & Repairs (15-20yrs) |
+| Option 2: | $4,850,000 | Fully Revonate Current Building |
+| Option 3: | $5,700,000 | 17,094 SF New Construction |
+| Option 3a: | $7,810,000 | 23,500 SF New Construction |
+| Option 4: | $  200,000 | Temporary Shoring/Repairs |
 
-# April 1, 2019: Town Council Regular Meeting
-- https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=44
+## April 1, 2019: Town Council Regular Meeting
+
+- [link](https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=44)
+
 PUBLIC SAFETY BUILDING TEMPORARY REPAIRS Benjamin “Benjie” Thomas of West Consultants,
 PLLC, recommended that temporary structural supports be installed at the Public Safety Building. Mr.
 Thomas shared that Structural Engineer C. Michael Alberto will have a final design for the supports by May
@@ -251,20 +269,23 @@ Councilman Ogle made a motion to authorize Town Manager Seth Eckard to partner w
 to solicit bids for temporary repairs to the Public Safety Building, seconded by Councilman Thompson. The
 vote was unanimous.
 
-- https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=47
+- [link](https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=47)
+
 SPECIAL PROJECTS BUDGET & REVALUATION DISCUSSION Town Manager Seth Eckard offered an update on
 Town projects and reiterated that additional revenues from the revaluation of real property will be allocated for street
 resurfacing and repairs to the public safety building in the amount of $25,000 and $100,000; respectively.
 
+## June 3, 2019: Town Council Regular Meeting
 
-# June 3, 2019: Town Council Regular Meeting
-- https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=97
+- [link](https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=97)
+
 Fire Department Police Department Building:
 The Town is in the process of securing bids for a temporary repair solution of structural damages of the public safety building. The temporary repairs are scheduled for completion no later than May of 2020. After temporary repairs are complete, the Town will have approximately five-years to carefully consider and implement a long-term solution for the public safety building. One-hundred thousand dollars of the new funds generated from the revaluation will be set-aside each year for a new public safety building.
 
+## June 3, 2019: Capital Project Budget Ordinance
 
-# June 3, 2019: Capital Project Budget Ordinance
-- https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=105
+- [link](https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=105)
+
 Be it ordained by the Town Council of the Town of Valdese that pursuant to Section 13.2 of Chapter 159 of the
 General Statutes of North Carolina, the following project ordinance is hereby adopted.
 
@@ -277,20 +298,24 @@ the program ordinance and the budget contained herein.
 
 Section 3. The following revenues are anticipated to be available to contribute to this project:
 
-Source Amount Assigned Account Number
+```Source Amount Assigned Account Number
+
 Town Contribution $ 100,000 35.3480.000
  ------------
  $ 100,000
  =======
+```
 
 Section 4. The following amounts are appropriated for the project:
 
-Source Amount Assigned Account Number
+```Source Amount Assigned Account Number
+
 Professional Services $ 100,000 35.5300.040
 Repairs 0 35.5300.150
  -------------
  $ 100,000
  ========
+```
 
 Section 5. The finance officer is hereby directed to maintain within the Project Fund sufficient specific
 detailed accounting records to provide the accounting to town council required by the program procedures, loan
@@ -309,9 +334,10 @@ officer for direction in carrying out this project.
 
 Adopted this 24th day of June, 2019
 
+## March 23, 2020: Annual Council/Department Head Budget Retreat
 
-# March 23, 2020: Annual Council/Department Head Budget Retreat
-- https://static.townofvaldese.com/public/media/uploads/combined_2020.pdf#page=43
+- [link](https://static.townofvaldese.com/public/media/uploads/combined_2020.pdf#page=43)
+
 POLICE DEPARTMENT Police Chief Jack Moss shared Police Department accomplishments for FY 19-20 and identified
 objectives for FY 2020-2021. Chief Moss thanked Public Works for all their help with updating two offices from water
 and mold damage. Chief Moss expressed his concern with the cracks in the brick in the Public Safety building. Chief
@@ -327,24 +353,27 @@ rescue equipment that staff will have to become certified to use. Mr. Stafford e
 engineers. Mr. Stafford concluded with going over the many different certifications that the Fire Department employees
 currently hold. Here are a few slides from Chief Stafford’s presentation.
 
+## June 1, 2020: Town Council Regular Meeting
 
-# June 1, 2020: Town Council Regular Meeting
-- https://static.townofvaldese.com/public/media/uploads/combined_2020.pdf#page=61
+- [link](https://static.townofvaldese.com/public/media/uploads/combined_2020.pdf#page=61)
+
 Public Safety Building
 The Town is in the process of selecting an architect to design a new public safety building that
 will replace the old deteriorating facility. Now is an optimal time to design and construct a new
 facility, given the historically low long-term financing rates and competitive bidding by local
 contractors. This project may take up to four years to complete.
 
-- https://static.townofvaldese.com/public/media/uploads/combined_2020.pdf#page=77
+- [link](https://static.townofvaldese.com/public/media/uploads/combined_2020.pdf#page=77)
+
 MANAGER’S REPORT: Town Manager Seth Eckard made the following announcements:
 Mr. Eckard stated that June 2nd was the last day for architects to submit an RFQ for the Public Safety
 building. Mr. Eckard asked the Mayor to select two Council members to serve on the review committee.
 Councilman Sweezy volunteered to serve, and Mayor asked Councilmen Ogle if he would, and he agreed.
 
+## Sept 8, 2020: Town Council Regular Meeting
 
-# Sept 8, 2020: Town Council Regular Meeting
-- https://static.townofvaldese.com/public/media/uploads/combined_2020.pdf#page=97
+- [link](https://static.townofvaldese.com/public/media/uploads/combined_2020.pdf#page=97)
+
 ARCHITECT FIRM FOR PUBLIC SAEFTY BUILDING PROJECT PRESENTATION & APPROVAL:
 Finance Director Bo Weichel presented on behalf of the Architectural Review Committee a letter of
 engagement and contract with CBSA Architects for the design and engineering services of the new Public
@@ -369,7 +398,7 @@ Councilman Sweezy made a motion to approve the Letter of Engagement, seconded by
 Stevenson. The vote was unanimous.
 
 Councilwoman Stevenson made a motion to approve the Contract with CBSA, seconded by
-Councilwoman Hildebran. The vote was unanimous. 
+Councilwoman Hildebran. The vote was unanimous.
 
 VALDESE ABC STORE PRESENTATION: Valdese ABC Store Manager, Karen Caruso, presented
 Council on behalf of the ABC Board and store employees with a $25,000.00 distribution check. Ms. Caruso
@@ -380,11 +409,12 @@ they have faced. Ms. Caruso shared that the Valdese ABC store should be paid off
 **Councilwoman Hildebran thanked Ms. Caruso for the wonderful job she has done with the store and asked
 where the distribution money was going. Town Manager Seth Eckard explained that it was going to go into
 the new Public Safety building**. Town Manager Seth Eckard thanked Ms. Caruso for her leadership and
-success of the store. Ms. Caruso thanked Council for their continued support. 
+success of the store. Ms. Caruso thanked Council for their continued support.
 
+## January 4, 2021: Town Council Regular Meeting
 
-# January 4, 2021: Town Council Regular Meeting
-- https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=7
+- [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=7)
+
 CONTINUATION OF THE JANUARY 4, 2021 COUNCIL MEETING: At 10:00 a.m. Mayor Black
 reconvened the January 4, 2021, Council Meeting to discuss the new Public Safety building. Town
 Manager Seth Eckard introduced the reason for the meeting to discuss the comparison of two potential
@@ -423,7 +453,7 @@ changes, the money would have to come out of the Fund Balance.
 Mr. Oetting explained that on the 2-story, the Fire Department would be on the lower level and not have
 drive-thru bays. The Police Department would be on the upper level. Mr. Beal shared a few pros and cons
 on the 2-story site. There will be added cost with having to add an elevator, two stairs, and structure cost.
-Mr. Beal said that there would be a decrease in less retaining walls and no underground stormwater drain. 
+Mr. Beal said that there would be a decrease in less retaining walls and no underground stormwater drain.
 
 Mr. Oetting moved to the next site option, located next to the Pineburr Mill, consisting of 18.4 acres, a
 43,000 square foot mill facility, an electrical substation, an 8,500 square foot garage, and a 2,000 square
@@ -448,7 +478,7 @@ a good use for Town departments and suggests tearing it down. Councilman Ogle wo
 a future site for a new Public Works building if it was torn down. Mr. Eckard said that could be an option at
 some point. Planning Director Larry Johnson shared that a developer looked at the facility, and his thoughts
 were it would take a significant amount of work. The developer has suggested completing a market study
-and assisting a developer with tax credits or using a type of incentive for development. 
+and assisting a developer with tax credits or using a type of incentive for development.
 
 Mr. Mozeley went over some of the pros; no retaining walls or underground stormwater needed. Since it
 would be on one level, it would have easier accommodations for common public access and the
@@ -477,7 +507,7 @@ on. Mr. Beal added that there are more boundary restrictions being in the downto
 Ogle feels that we need to move forward with the Pineburr building site.
 
 Mr. Eckard stated that he would like Council to agree on which location they recommended and if it was
-the Pineburr site to move into Closed Session to discuss the negotiation price for purchase of the property. 
+the Pineburr site to move into Closed Session to discuss the negotiation price for purchase of the property.
 
 CLOSED SESSION: Mayor Black called for a motion to recess into Closed Session pursuant to NC General
 Statute 143-318.11 (a) (5) to establish, or instruct the public body’s staff or negotiating agents concerning
@@ -498,9 +528,10 @@ NEGOTIATION DISCUSSION OF THE PINEBURR MILL SITE: Councilman Ogle made a motion 
 the Town Manager the approval to negotiate the purchase price of the Pineburr Property for $98,132,
 seconded by Councilman Sweezy. The vote was unanimous.
 
+## March 1, 2021: Town Council Regular Meeting
 
-# March 1, 2021: Town Council Regular Meeting
-- https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=19
+- [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=19)
+
 APPROVED PURCHASE AGREEMENT FOR PINEBURR MILL PROPERTY: Finance Director Bo
 Weichel presented the following: ...
 
@@ -515,17 +546,19 @@ the Town has sixty days to back out for any reason and increase the diligence pe
 Councilman Ogle made a motion to approve the Purchase Agreement for the Alba-Waldensian Pineburr
 property, seconded by Councilman Sweezy. The vote was unanimous.
 
+## May 3, 2021: Town Council Regular Meeting
 
-# May 3, 2021: Town Council Regular Meeting
-- https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=65
+- [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=65)
+
 APPROVED ACCEPTANCE OF BUILDING DONATION LOCATED AT 408 PINEBURR AVE. SW Town
 Manager Seth Eckard explained that we have already purchased the three parcels on the Pineburr Mill Site
 that will eventually be the new Public Safety Building home. Mr. Eckard shared that this is a donation of a
 fourth parcel that has the building on it. This donation is 100% free to the Town.
 
+## June 7, 2021: Town Council Regular Meeting
 
-# June 7, 2021: Town Council Regular Meeting
-- https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=76
+- [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=76)
+
 ABC Distributions
 Fiscal Year 2021 – 2022 will mark the final debt payment to the Town of Valdese from the Valdese ABC
 Store. We project that the ABC Store will distribute $100, 0000 to the Town of Valdese in 2021 - 2022.
@@ -535,16 +568,19 @@ Public Safety Building
 The Town secured the services of CBSA Architects out of Hickory to design our new public safety building
 that is to be constructed at the old Pineburr Alba Mill site. We anticipate going out for bid in early 2022.
 
+## August 2, 2021: Town Council Regular Meeting
 
-# August 2, 2021: Town Council Regular Meeting
-- https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=107
+- [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=107)
+
 CAPITAL PROJECT ORDINANCE AMENDMENT: Finance Director Bo Weichel presented the following
 capital project ordinance amendment to Council:
-$7,250	Additional survey costs for the Pineburr site selection
 
+- $7,250 Additional survey costs for the Pineburr site selection
 
-# October 2021: Town Manager Seth Eckard's Letter to Citizens
-- https://www.townofvaldese.com/media/uploads/october_2021.docx
+## October 2021: Town Manager Seth Eckard's Letter to Citizens
+
+- [link](https://www.townofvaldese.com/media/uploads/october_2021.docx)
+
 (October 2021) Greetings Valdese Citizens,
 Valdese Town Council wishes to share with Valdese citizens the research that is being conducted as a result of structural deterioration at the Public Safety building on Faet Street. A comprehensive timeline has been created outlining a series of studies and professional opinions on the current Public Safety Building. In recent years, the structural integrity of the building has become compromised in many areas with cracking throughout interior and exterior walls of the building. The attached document includes a comprehensive timeline with structural reports, architectural studies, programming and email correspondence all of which explain the issues surrounding the building’s failing structure and options for the future.
 
@@ -557,11 +593,12 @@ A public input meeting will be held in early 2022 at the Old Rock School Auditor
 Sincerely,
 Seth Eckard
 Valdese Town Manager
-828-879-2116 | seckard@valdesenc.gov
+828-879-2116 | seckard\@valdesenc.gov
 
+## December 6, 2021: Town Council Regular Meeting
 
-# December 6, 2021: Town Council Regular Meeting
-- https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=138
+- [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=138)
+
 OATHS OF OFFICE: Burke County Clerk of Superior Court Mabel H. Lowman administered Oaths of Office
 to Councilman Andy Thompson Ward 1, Councilman Paul Mears Ward 2, Councilwoman Rexanna Lowman
 Ward 3, and Mayor Charlie Watts.
@@ -572,7 +609,9 @@ Mayor. Through the years, I have witnessed your selfless dedication to serving V
 Your desire to do what was best for Valdese never wavered. You will surely be missed. Thank you.”
 
 ## $25,500 Contract Approved with CBSA, for architectural, structural, and civil engineering assessments of the existing Safety Building facility
-- https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=146
+
+- [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=146)
+
 Safety Building facility to bring it up to industry standards and building codes. The scope of work would
 include architectural, structural, and civil engineering assessments and the cost of repairs for long-term
 options. Mr. Weichel shared that the cost for this would be $25,500.00. Mr. Weichel introduced Marty Beal,
@@ -585,24 +624,29 @@ mechanical. Mr. Beal shared that there will be a written report that will includ
 Councilman Thompson made a motion to approve the Contract Amendment with CBSA as presented,
 seconded by Councilwoman Hildebran. The vote was unanimous.
 
+## February 15, 2022: Town Council Special Meeting
 
-# February 15, 2022: Town Council Special Meeting
-- https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=44
+- [link](https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=44)
+
 Lengthy presentation with lots of pictures
 
-- https://www.youtube.com/watch?v=ivUec0j49aU
+- [link](https://www.youtube.com/watch?v=ivUec0j49aU)
+
 2 Hour 53 Minute Video of the special meeting
 
 Chart shows the following existing General Fund Debt:
-$52,761 per year for 16 Years: 	Fire Ladder Truck (USDA)
-$88,878 per year for 29 Years: 	Town Hall (USDA)
-$19,483 per year for 36 Years: 	Splash Park (USDA)
 
-$269,076 per year for 40 Years: 	New Construction of Public Safety building
-$247,550 per year for 40 Years: 	Renovation of Public Safety building
+| $52,761 per year for 16 Years: | Fire Ladder Truck (USDA) |
+| $88,878 per year for 29 Years: | Town Hall (USDA) |
+| $19,483 per year for 36 Years: | Splash Park (USDA) |
+| |
+| $269,076 per year for 40 Years: | New Construction of Public Safety building |
+| $247,550 per year for 40 Years: | Renovation of Public Safety building |
 
-# March 7, 2022: Town Council Regular Meeting
-- https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=70
+## March 7, 2022: Town Council Regular Meeting
+
+- [link](https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=70)
+
 PUBLIC SAFETY BUILDING: Councilwoman Hildebran made a motion to authorize the architect to
 develop construction documents for a new facility per USDA guidelines, advertise for the construction bids
 and for staff to develop alternative bids that will reduce the size and cost of the proposed facility, seconded
@@ -638,30 +682,34 @@ bids that will reduce the size and cost of the proposed facility, seconded by Co
 Vote - Councilwoman Hildebran, Councilwoman Lowman, Councilman Mears – Yes(3), Councilman
 Thompson, Councilman Ogle – No(2)
 
-- https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=79
+- [link](https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=79)
+
 Capital Project Ordinance Amendment, in the amount of $500,000 for Public Safety building from a State Grant
 $500,000 Credit to "State Grant" account
 $500,000 Debit to "Construction" account
 
+## May 2, 2022: Town Council Regular Meeting
 
-# May 2, 2022: Town Council Regular Meeting
-- https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=149
+- [link](https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=149)
+
 PUBLIC HEARING FOR RE-ZONING OF TOWN-OWNED PROPERTY ON PINEBURR AVE. Mayor
 Watts opened the Public Hearing. Town Manager Seth Eckard recommended recessing the Public Hearing
 to June 6, 2022, at 6:00 p.m. due to some additional information staff is gathering.
 Councilman Thompson made a motion to recess the Public Hearing to June 6, 2022, Council meeting at
 6:00 p.m., seconded by Councilwoman Hildebran. The vote was unanimous.
 
-- https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=152
+- [link](https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=152)
+
 Public Safety Building
 On March 7th 2022, The Valdese Town Council voted to authorize the architect (CBSA) to develop
 construction documents for a new facility, advertise for construction bids, and staff to develop alternative
 bids that will reduce the size and cost of the proposed facility. We anticipate receiving bids for the Town
 Council’s consideration in late 2022.
 
+## June 6, 2022: Town Council Regular Meeting
 
-# June 6, 2022: Town Council Regular Meeting
-- https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=206
+- [link](https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=206)
+
 PUBLIC HEARING FOR RE-ZONING OF TOWN-OWNED PROPERTY ON PINEBURR AVE. Mayor
 Watts re-opened the Public Hearing that was recessed at the May 2, 2022, Council meeting at 6:11 p.m.
 
@@ -689,22 +737,30 @@ Government buildings are allowed in the B-2 General Business District without si
 REVIEW:
 Staff finds Rezoning Petition 2-3-22 inconsistent with the Valdese Vision: A Land Use Action Plan for the
 Future. In so finding, Staff provides the following review:
+
 1. The Town of Valdese requested a zoning map amendment in March 2022 to rezone four parcels
 with zoning designations of M-1 Manufacturing, R-12 Residential, and R-8 Residential to B-2
 General Business District.
+
 2. Three of four parcels are vacant or undeveloped. The fourth contains the primary and accessory
 structures.
+
 3. The four parcels are contiguous with residential uses, utility easement, and rail tracks. The
 proposed Rezoning to B-2 General Business permits "government building" without size
 restrictions.
+
 4. The rezoning petition is consistence with one of four parcels identified in The Valdese Vision: Land
 Use Action Plan. The Land Use Action Plan identifies Parcel #4, the parking lot, for commercial
 development, which will be consistent with the proposed B-2 General Business designation.
+
 5. Staff confirmed the following steps were taken in advance of the public hearing on Rezoning
 Petition 2-3-22:
-a. adjoining property owners received first-class mail notifications.
-b. The Town Clerk advertised the public hearing in the local paper.
-c. Staff placed Rezoning Public Hearing signs along with the properties.
+
+    a. adjoining property owners received first-class mail notifications.
+
+    b. The Town Clerk advertised the public hearing in the local paper.
+
+    c. Staff placed Rezoning Public Hearing signs along with the properties.
 
 PLANNING BOARD ACTION:
 The Planning Board took up the issue of the Town's request to amend the Town's Zoning Map around the
@@ -738,43 +794,52 @@ ZONING MAP AMENDMENT
 CONSISTENCY/INCONSISTENCY STATEMENT
 On June 6, 2022, the Valdese Town Council met to consider Rezoning Petition 2-3-22 and received a
 recommendation from the Valdese Planning Board. Upon consideration, the Valdese Town Council finds:
+
 1. The Town of Valdese Planning Board has considered rezoning the following parcels from their
 currently designated zoning (as set forth below) to B-2 General Business District.
-a) A 3.70 parcel commonly known as 408 Pineburr Avenue SE, Valdese, NC, Parcel ID Number
-2743038327, Zoned M-1 Manufacturing and R-12 Residential;
-b) A 13.80-acre parcel commonly known as 650 Pineburr Avenue SE, Valdese, NC, Parcel ID
-Number 2743137307, Zoned M-1 Manufacturing and R-8 Residential;
-c) A 0.50-acre parcel commonly known as 800 Pineburr Avenue SE, Valdese, NC, Parcel ID
-Number 2743135181, Zoned R-8 Residential; and
-d) A 0.40-acre parcel commonly known as 409 Pineburr Avenue SE, Valdese, NC, Parcel ID
-Number 2743037173, Zoned R-8 Residential.
+  a) A 3.70 parcel commonly known as 408 Pineburr Avenue SE, Valdese, NC, Parcel ID Number
+  2743038327, Zoned M-1 Manufacturing and R-12 Residential;
+  b) A 13.80-acre parcel commonly known as 650 Pineburr Avenue SE, Valdese, NC, Parcel ID
+  Number 2743137307, Zoned M-1 Manufacturing and R-8 Residential;
+  c) A 0.50-acre parcel commonly known as 800 Pineburr Avenue SE, Valdese, NC, Parcel ID
+  Number 2743135181, Zoned R-8 Residential; and
+  d) A 0.40-acre parcel commonly known as 409 Pineburr Avenue SE, Valdese, NC, Parcel ID
+  Number 2743037173, Zoned R-8 Residential.
 
 2. Found the request to amend the Town's Zoning Map around the parcels described above from their
 currently designated zoning to Zone B-2 General Business District to be inconsistent with the
 adopted Town of Valdese 2014, The Valdese Vision: A Land Use Action Plan.
+
 3. The Land Use Plan calls for Manufacturing and Residential uses on three parcels of interest.
 Valdese's B-2 General Business District does not allow manufacturing uses.
+
 4. The B-2 General Business District permits government buildings and residential development,
 including single-family, multi-family, and Planned Unit Development Residential.
+
 5. The four parcels are contiguous with residential uses and manufacturing uses.
+
 6. The Planning Board voted five to zero to recommend that Town Council amend the Town's zoning
-map regarding the parcels from M-1 Manufacturing, R-8 Residential, and R-12 Residential to B-2
-General Business District.
+    map regarding the parcels from M-1 Manufacturing, R-8 Residential, and R-12 Residential to B-2
+    General Business District.
 
-Based upon the recommendation of the Valdese Planning Board and the findings from the public hearing,
-the Valdese Town Council, having found Rezoning Petition 2-3-22 to be inconsistent with the Valdese
-Vision: A Land Use Action Plan for the Future, approves Rezoning Petition 2-3-22 and the recommendation
-from the Valdese Planning Board to amend the Town's zoning map regarding the parcels of interest from
-M-1 Manufacturing, R-8 Residential and R-12 Residential to B-2 General Business District.
+    Based upon the recommendation of the Valdese Planning Board and the findings from the public hearing,
+    the Valdese Town Council, having found Rezoning Petition 2-3-22 to be inconsistent with the Valdese
+    Vision: A Land Use Action Plan for the Future, approves Rezoning Petition 2-3-22 and the recommendation
+    from the Valdese Planning Board to amend the Town's zoning map regarding the parcels of interest from
+    M-1 Manufacturing, R-8 Residential and R-12 Residential to B-2 General Business District.
 
-VALDESE TOWN COUNCIL
-Zoning Map Amendment Reasonableness Statement
-On June 6, 2022, the Valdese Town Council met to consider Rezoning Petition 2-3-22 and found the
-proposed zoning amendment is reasonable and in the public interest because:
+    VALDESE TOWN COUNCIL
+
+    Zoning Map Amendment Reasonableness Statement
+    On June 6, 2022, the Valdese Town Council met to consider Rezoning Petition 2-3-22 and found the
+    proposed zoning amendment is reasonable and in the public interest because:
+
 7. The total acreage of the four parcels subject to Rezoning Petition 2-3-22 (18.4 acres) is of sufficient
 size so as not to be construed as “spot” zoning.
+
 8. The surrounding zoning designations are R-8 Residential, R-12 Residential, and M-1
 Manufacturing. The surrounding land uses include residential development and manufacturing.
+
 9. As zoned (M-1 Manufacturing), a portion of the subject properties could be developed for industrial
 and related uses, which could include, by way of example and not limited to, an automotive body
 repair shop, automotive repair, automotive service station, recycling center, a collection point or
@@ -787,10 +852,13 @@ Development Residential. Some of the above M-1 Manufacturing uses could be more 
 to the surrounding residential development than the permitted uses in a B-2 General Business
 District and the intended use of the subject properties for the construction and operation of a public
 safety building.
+
 10. B-2 General Business development will not harm the surrounding land uses in that, among other
 things, it will remain subject to the site plan ordinance governing development criteria.
+
 11. The zoning amendment will allow the construction of a government building to benefit the Town
-and surrounding landowners and enable non-industrial development in the vacant primary building. 
+and surrounding landowners and enable non-industrial development in the vacant primary building.
+
 12. The Valdese Vision: A Land Use Action Plan for the Future was adopted in 2014. The Town
 subsequently acquired the subject property while exploring locations for constructing and operating
 a new public safety building. There are few reasonably available alternate locations in the Town of
@@ -802,14 +870,15 @@ Future, warranting this zoning amendment.
 Based upon those above and the findings from the public hearing, the Valdese Town Council, finds
 Rezoning Petition 2-3-22 to be reasonable and approves Rezoning Petition 2-3-22.
 
+## October 3, 2022: Town Council Regular Meeting
 
-# October 3, 2022: Town Council Regular Meeting
-- https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=297
+- [link](https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=297)
+
 APPROVED OFFER TO PURCHASE TOWN OWNED PROPERTY – PINEBURR MILL: Assistant Town
 Manager/CFO Bo Weichel shared that the Town received an offer to purchase the Pineburr Mill property
 and the parking lot across the street, which is a little over four acres of property. Councilwoman Lowman
 asked if the parking lot would not need to be used for the proposed Public Safety Building. Mr. Weichel
-said it was not in any of the Public Safety plans. 
+said it was not in any of the Public Safety plans.
 
 RESOLUTION AUTHORIZING UPSET BID PROCESS
 (Sale of 3.426 Acres at 408 Pineburr Ave SE, Valdese, NC)
@@ -820,7 +889,7 @@ amount of $30,000.00, submitted by WC Erwin or assigns;
 
 WC Erwin or assigns has paid the required five percent (5%) deposit of his offer.
 
-THIS RESOLUTION IS ADOPTED OCTOBER 3rd, 2022. 
+THIS RESOLUTION IS ADOPTED OCTOBER 3rd, 2022.
 
 Mr. Weichel shared that one modification had been made to the plat that angles the lot lines, allowing fire
 trucks to access the Public Safety building off Ribet Ave. Mr. Weichel explained that the Burke County GIS
@@ -831,4 +900,4 @@ the original Public Safety building project proposal included demolishing the Mi
 Mr. Eckard shared that by deposing this property through the upset bid process, we would save the cost of
 demolition and get money for the purchase. In return, hopefully, the property will be turned into muchneeded market-rate housing. Mr. Weichel shared that this Resolution will allow staff to start the upset bid
 process and explained the process. Councilwoman Hildebran asked if this would involve any rezoning or if
-we needed to notify any property owners. Mr. Eckard said no. 
+we needed to notify any property owners. Mr. Eckard said no.
