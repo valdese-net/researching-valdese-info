@@ -1,3 +1,10 @@
+# Adjacent Fire Districts
+
+##  Lovelady Volunteer Fire Department
+- [Recent 990](https://projects.propublica.org/nonprofits/organizations/561402701/202533399349300523/full)
+- [$4.1 million project](https://www.thepaper.media/news/rutherford_college/work-to-begin-soon-on-lovelady-fire-rescue-new-station/article_577d3fff-8296-43a5-82e6-7beee8005fe4.html)
+- [2024 State Budget Allocation](https://www.gofoothills.com/2024/01/26/burke-county-fire-departments-to-receive-nc-budget-allocation/)
+
 # Timeline of Police/Fire Structure
 
 The following is intended to summarize some of the milestones in the governance of Valdese that are relevant to the Valdese Public Safety Building Project.
