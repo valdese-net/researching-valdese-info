@@ -1,8 +1,12 @@
 # Valdese Police/Fire Structure
 
+Town of Valdese is in the process of [planning for a new safety building](https://www.townofvaldese.com/media/uploads/may_28,_2026.pdf#page=559) targetting both police and fire.
+
+This document attempts to look into some of the logistical data pertaining to fire safety and its management in Burke county and Valdese in particular. Evaluating municipal priorities and precedent with regard to law enforcement is **not** a focus of this document.
+
 ## County Managed Adjacent Fire Districts
 
-Burke county manages the taxes associated with many of its fire districts ( [25-26 Approved Budget Page 6](https://www.burkenc.org/DocumentCenter/View/4471/FY-2025-2026-Approved-Budget-PDF#page6) ):
+Burke county manages the taxes associated with many of its fire districts ( [25-26 Approved Budget Page 6](https://www.burkenc.org/DocumentCenter/View/4471/FY-2025-2026-Approved-Budget-PDF#page=6) ):
 
 | Fire District	| Total Property	| Tax Rate Per $100 |
 |---------------|----------------|-------------------|
