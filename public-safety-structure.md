@@ -1,5 +1,30 @@
 # Adjacent Fire Districts
 
+## County Managed
+
+Burke county manages the taxes associated with many of its fire districts ( [25-26 Approved Budget Page 6](https://www.burkenc.org/DocumentCenter/View/4471/FY-2025-2026-Approved-Budget-PDF) ):
+
+| Fire District	| Total Property	| Tax Rate Per $100 |
+|---------------|----------------|-------------------|
+| Brendletown |	$438,666,667 |	$0.11  |
+| Carbon City |	$18,125,000 |	$0.08  |
+| Chesterfield |	$253,203,846 |	$0.13  |
+| Drowning Creek |	$96,970,833 |	$0.12  |
+| Enola |	$156,961,905 |	$0.11  |
+| George Hildebran |	$372,381,818 |	$0.11  |
+| Glen Alpine |	$228,080,000 |	$0.10  |
+| Icard |	$891,666,667 |	$0.12  |
+| Jonas Ridge |	$198,162,963 |	$0.14  |
+| Lake James |	$436,062,500 |	$0.08  |
+| Longtown |	$219,275,000 |	$0.12  |
+| Lovelady |	$752,090,476 |	$0.11  |
+| Oak Hill |	$675,000,000 |	$0.08  |
+| Salem |	$716,439,000 |	$0.10  |
+| Smokey Creek |	$43,656,780 |	$0.12  |
+| South Mountain |	$107,595,588 |	$0.14  |
+| Triple Community |	$689,770,000 |	$0.10  |
+| West End |	$545,463,158 |	$0.10 |
+
 ##  Lovelady Volunteer Fire Department
 - [Recent 990](https://projects.propublica.org/nonprofits/organizations/561402701/202533399349300523/full)
 - [$4.1 million project](https://www.thepaper.media/news/rutherford_college/work-to-begin-soon-on-lovelady-fire-rescue-new-station/article_577d3fff-8296-43a5-82e6-7beee8005fe4.html)
