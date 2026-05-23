@@ -1,8 +1,8 @@
-# Adjacent Fire Districts
+# Valdese Police/Fire Structure
 
-## County Managed
+## County Managed Adjacent Fire Districts
 
-Burke county manages the taxes associated with many of its fire districts ( [25-26 Approved Budget Page 6](https://www.burkenc.org/DocumentCenter/View/4471/FY-2025-2026-Approved-Budget-PDF) ):
+Burke county manages the taxes associated with many of its fire districts ( [25-26 Approved Budget Page 6](https://www.burkenc.org/DocumentCenter/View/4471/FY-2025-2026-Approved-Budget-PDF#page6) ):
 
 | Fire District	| Total Property	| Tax Rate Per $100 |
 |---------------|----------------|-------------------|
@@ -25,12 +25,12 @@ Burke county manages the taxes associated with many of its fire districts ( [25-
 | Triple Community |	$689,770,000 |	$0.10  |
 | West End |	$545,463,158 |	$0.10 |
 
-##  Lovelady Volunteer Fire Department
+###  Lovelady Volunteer Fire Department
 - [Recent 990](https://projects.propublica.org/nonprofits/organizations/561402701/202533399349300523/full)
 - [$4.1 million project](https://www.thepaper.media/news/rutherford_college/work-to-begin-soon-on-lovelady-fire-rescue-new-station/article_577d3fff-8296-43a5-82e6-7beee8005fe4.html)
 - [2024 State Budget Allocation](https://www.gofoothills.com/2024/01/26/burke-county-fire-departments-to-receive-nc-budget-allocation/)
 
-# Timeline of Police/Fire Structure
+## Timeline
 
 The following is intended to summarize some of the milestones in the governance of Valdese that are relevant to the Valdese Public Safety Building Project.
 The townofvaldese.com web site has a page dedicated to this project:
@@ -39,7 +39,7 @@ The townofvaldese.com web site has a page dedicated to this project:
 
 Here is a content dump of minuted items related to this project:
 
-## March 16, 2015: Annual Council/Department Head Budget Retreat
+### March 16, 2015: Annual Council/Department Head Budget Retreat
 
 - [link](https://static.townofvaldese.com/public/media/uploads/2015_combined_meeting_minutes.pdf#page=17)
 
@@ -58,13 +58,13 @@ Chief Watts said staff needed to obtain the deed from The Settings by June 30, 2
 
 Mr. Morse said there would be an additional $20,000 contribution for the new communications center
 
-## July 1, 2015: Mr. Seth Eckard Appointed Town Manager
+### July 1, 2015: Mr. Seth Eckard Appointed Town Manager
 
 - [link](https://static.townofvaldese.com/public/media/uploads/2015_combined_meeting_minutes.pdf#page=46)
 
 Mr. Seth Eckard appointed as new Valdese Town Manager, replacing Mr. Jeff Morse.
 
-## March 22, 2016: Annual Council/Department Head Budget Retreat
+### March 22, 2016: Annual Council/Department Head Budget Retreat
 
 - [link](https://static.townofvaldese.com/public/media/uploads/2016_combined.pdf#page=21)
 
@@ -80,7 +80,7 @@ week. He recommended resurfacing of parking lot and front pad at an estimated co
 engine bay heaters - $7,500. He said the estimated cost to renovate the old town hall would be approximately
 $130,000.
 
-## August 1, 2016: Town Council Meeting
+### August 1, 2016: Town Council Meeting
 
 - [link](https://static.townofvaldese.com/public/media/uploads/2016_combined.pdf#page=57)
 
@@ -88,7 +88,7 @@ Mr. Eckard said the loan agreement with USDA for the Ladder Truck was in the amo
 USDA provided a grant in the amount of $46,700. The terms for the USDA loan would be $803,300 loan at
 2.5 percent interest rate for 20 years with an annual debt payment of $52,761.
 
-## March 20, 2017: Annual Council/Department Head Budget Retreat
+### March 20, 2017: Annual Council/Department Head Budget Retreat
 
 - [link](https://static.townofvaldese.com/public/media/uploads/2017_minutes.pdf#page=27)
 
@@ -98,7 +98,7 @@ Communication Center. He said the Police and Fire Departments would need a new c
 He said the Fire Department needed bay door replacement and resurfacing of the front pad and as a future budget
 item they would need a Rescue UTV
 
-## June 5, 2017: Town Council Meeting
+### June 5, 2017: Town Council Meeting
 
 - [link](https://static.townofvaldese.com/public/media/uploads/2017_minutes.pdf#page=44)
 
@@ -107,13 +107,13 @@ multiple departments. Highlights include:
 
 - Fire Department paving and bay door repairs to accommodate new fire truck
 
-## March 19, 2018: Annual Budget Retreat, Old Rock School, Waldensian Room
+### March 19, 2018: Annual Budget Retreat, Old Rock School, Waldensian Room
 
 - [link](https://www.townofvaldese.com/media/uploads/2018_minutes.pdf)
 
 Chief Watts informed Council that he received a report from an engineer today about possible structural issues at the fire and police complex. Staff will meet with the engineer to discuss the findings.
 
-## June 4, 2018: Town Council Meeting
+### June 4, 2018: Town Council Meeting
 
 - [link](https://static.townofvaldese.com/public/media/uploads/2018_combined_minutes.pdf#page=32)
 
@@ -169,7 +169,7 @@ and a feasibility study in the amount of $17,500, and to authorize the town mana
 by Councilwoman Stevenson. The motion passed with voting as follows: Stevenson-aye, Delp-aye, Sweezy-aye.
 Opposed: Councilman Ogle.
 
-## August 2, 2018: Town Council Special Meeting
+### August 2, 2018: Town Council Special Meeting
 
 - [link](https://static.townofvaldese.com/public/media/uploads/2018_combined_minutes.pdf#page=48)
 
@@ -214,7 +214,7 @@ much they paid for it.
 Councilwoman Hildebran expressed her appreciation for having all of the options available for Council to consider to
 assist with making the best and most informed decision.
 
-## August 6, 2018: Town Council Regular Meeting
+### August 6, 2018: Town Council Regular Meeting
 
 - [link](https://static.townofvaldese.com/public/media/uploads/2018_combined_minutes.pdf#page=55)
 
@@ -251,7 +251,7 @@ demolishing the unused portion of old town hall and utilizing that better for pa
 Mayor Black acknowledged that Council had reached a consensus, wishing to pursue Option A and requested to
 continue this discussion at the next meeting when staff has more definite numbers and details for this option.
 
-## September 4, 2018: Town Council Regular Meeting
+### September 4, 2018: Town Council Regular Meeting
 
 - [link](https://static.townofvaldese.com/public/media/uploads/2018_combined_minutes.pdf#page=55)
 
@@ -261,7 +261,7 @@ Staff is seeking a second opinion on the structural repairs at the Public Safety
 engineer will look over the building and provide feedback. This information will be evaluated before
 proceeding to the next step
 
-## January 31, 2019: Town Council Special Meeting, held at the structure
+### January 31, 2019: Town Council Special Meeting, held at the structure
 
 - [link](https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=11)
 
@@ -285,7 +285,7 @@ Probable Construction Costs for Options:
 | Option 3a: | $7,810,000 | 23,500 SF New Construction |
 | Option 4: | $  200,000 | Temporary Shoring/Repairs |
 
-## April 1, 2019: Town Council Regular Meeting
+### April 1, 2019: Town Council Regular Meeting
 
 - [link](https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=44)
 
@@ -307,14 +307,14 @@ SPECIAL PROJECTS BUDGET & REVALUATION DISCUSSION Town Manager Seth Eckard offere
 Town projects and reiterated that additional revenues from the revaluation of real property will be allocated for street
 resurfacing and repairs to the public safety building in the amount of $25,000 and $100,000; respectively.
 
-## June 3, 2019: Town Council Regular Meeting
+### June 3, 2019: Town Council Regular Meeting
 
 - [link](https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=97)
 
 Fire Department Police Department Building:
 The Town is in the process of securing bids for a temporary repair solution of structural damages of the public safety building. The temporary repairs are scheduled for completion no later than May of 2020. After temporary repairs are complete, the Town will have approximately five-years to carefully consider and implement a long-term solution for the public safety building. One-hundred thousand dollars of the new funds generated from the revaluation will be set-aside each year for a new public safety building.
 
-## June 3, 2019: Capital Project Budget Ordinance
+###June 3, 2019: Capital Project Budget Ordinance
 
 - [link](https://static.townofvaldese.com/public/media/uploads/combined.pdf#page=105)
 
@@ -368,7 +368,7 @@ officer for direction in carrying out this project.
 
 Adopted this 24th day of June, 2019
 
-## March 23, 2020: Annual Council/Department Head Budget Retreat
+### March 23, 2020: Annual Council/Department Head Budget Retreat
 
 - [link](https://static.townofvaldese.com/public/media/uploads/combined_2020.pdf#page=43)
 
@@ -387,7 +387,7 @@ rescue equipment that staff will have to become certified to use. Mr. Stafford e
 engineers. Mr. Stafford concluded with going over the many different certifications that the Fire Department employees
 currently hold. Here are a few slides from Chief Stafford’s presentation.
 
-## June 1, 2020: Town Council Regular Meeting
+### June 1, 2020: Town Council Regular Meeting
 
 - [link](https://static.townofvaldese.com/public/media/uploads/combined_2020.pdf#page=61)
 
@@ -404,7 +404,7 @@ Mr. Eckard stated that June 2nd was the last day for architects to submit an RFQ
 building. Mr. Eckard asked the Mayor to select two Council members to serve on the review committee.
 Councilman Sweezy volunteered to serve, and Mayor asked Councilmen Ogle if he would, and he agreed.
 
-## Sept 8, 2020: Town Council Regular Meeting
+### Sept 8, 2020: Town Council Regular Meeting
 
 - [link](https://static.townofvaldese.com/public/media/uploads/combined_2020.pdf#page=97)
 
@@ -445,7 +445,7 @@ where the distribution money was going. Town Manager Seth Eckard explained that 
 the new Public Safety building**. Town Manager Seth Eckard thanked Ms. Caruso for her leadership and
 success of the store. Ms. Caruso thanked Council for their continued support.
 
-## January 4, 2021: Town Council Regular Meeting
+### January 4, 2021: Town Council Regular Meeting
 
 - [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=7)
 
@@ -562,7 +562,7 @@ NEGOTIATION DISCUSSION OF THE PINEBURR MILL SITE: Councilman Ogle made a motion 
 the Town Manager the approval to negotiate the purchase price of the Pineburr Property for $98,132,
 seconded by Councilman Sweezy. The vote was unanimous.
 
-## March 1, 2021: Town Council Regular Meeting
+### March 1, 2021: Town Council Regular Meeting
 
 - [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=19)
 
@@ -580,7 +580,7 @@ the Town has sixty days to back out for any reason and increase the diligence pe
 Councilman Ogle made a motion to approve the Purchase Agreement for the Alba-Waldensian Pineburr
 property, seconded by Councilman Sweezy. The vote was unanimous.
 
-## May 3, 2021: Town Council Regular Meeting
+### May 3, 2021: Town Council Regular Meeting
 
 - [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=65)
 
@@ -589,7 +589,7 @@ Manager Seth Eckard explained that we have already purchased the three parcels o
 that will eventually be the new Public Safety Building home. Mr. Eckard shared that this is a donation of a
 fourth parcel that has the building on it. This donation is 100% free to the Town.
 
-## June 7, 2021: Town Council Regular Meeting
+###June 7, 2021: Town Council Regular Meeting
 
 - [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=76)
 
@@ -602,7 +602,7 @@ Public Safety Building
 The Town secured the services of CBSA Architects out of Hickory to design our new public safety building
 that is to be constructed at the old Pineburr Alba Mill site. We anticipate going out for bid in early 2022.
 
-## August 2, 2021: Town Council Regular Meeting
+###August 2, 2021: Town Council Regular Meeting
 
 - [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=107)
 
@@ -611,7 +611,7 @@ capital project ordinance amendment to Council:
 
 - $7,250 Additional survey costs for the Pineburr site selection
 
-## October 2021: Town Manager Seth Eckard's Letter to Citizens
+### October 2021: Town Manager Seth Eckard's Letter to Citizens
 
 - [link](https://www.townofvaldese.com/media/uploads/october_2021.docx)
 
@@ -629,7 +629,7 @@ Seth Eckard
 Valdese Town Manager
 828-879-2116 | seckard\@valdesenc.gov
 
-## December 6, 2021: Town Council Regular Meeting
+### December 6, 2021: Town Council Regular Meeting
 
 - [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=138)
 
@@ -642,7 +642,7 @@ behalf of the Town of Valdese and our citizens, I extend a heartfelt thank you t
 Mayor. Through the years, I have witnessed your selfless dedication to serving Valdese and her citizens.
 Your desire to do what was best for Valdese never wavered. You will surely be missed. Thank you.”
 
-## $25,500 Contract Approved with CBSA, for architectural, structural, and civil engineering assessments of the existing Safety Building facility
+### $25,500 Contract Approved with CBSA, for architectural, structural, and civil engineering assessments of the existing Safety Building facility
 
 - [link](https://www.townofvaldese.com/media/uploads/2021_minutes_combined.pdf#page=146)
 
@@ -658,7 +658,7 @@ mechanical. Mr. Beal shared that there will be a written report that will includ
 Councilman Thompson made a motion to approve the Contract Amendment with CBSA as presented,
 seconded by Councilwoman Hildebran. The vote was unanimous.
 
-## February 15, 2022: Town Council Special Meeting
+###February 15, 2022: Town Council Special Meeting
 
 - [link](https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=44)
 
@@ -677,7 +677,7 @@ Chart shows the following existing General Fund Debt:
 | $269,076 per year for 40 Years: | New Construction of Public Safety building |
 | $247,550 per year for 40 Years: | Renovation of Public Safety building |
 
-## March 7, 2022: Town Council Regular Meeting
+### March 7, 2022: Town Council Regular Meeting
 
 - [link](https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=70)
 
@@ -722,7 +722,7 @@ Capital Project Ordinance Amendment, in the amount of $500,000 for Public Safety
 $500,000 Credit to "State Grant" account
 $500,000 Debit to "Construction" account
 
-## May 2, 2022: Town Council Regular Meeting
+### May 2, 2022: Town Council Regular Meeting
 
 - [link](https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=149)
 
@@ -740,7 +740,7 @@ construction documents for a new facility, advertise for construction bids, and 
 bids that will reduce the size and cost of the proposed facility. We anticipate receiving bids for the Town
 Council’s consideration in late 2022.
 
-## June 6, 2022: Town Council Regular Meeting
+### June 6, 2022: Town Council Regular Meeting
 
 - [link](https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=206)
 
@@ -904,7 +904,7 @@ Future, warranting this zoning amendment.
 Based upon those above and the findings from the public hearing, the Valdese Town Council, finds
 Rezoning Petition 2-3-22 to be reasonable and approves Rezoning Petition 2-3-22.
 
-## October 3, 2022: Town Council Regular Meeting
+### October 3, 2022: Town Council Regular Meeting
 
 - [link](https://www.townofvaldese.com/media/uploads/2022_minutes_combined.pdf#page=297)
 
